@@ -5,6 +5,7 @@ import (
 	"sync"
 )
 
+// Write a concurrent Go program that prints the number of prime numbers between 1 and N, where N is a user-defined input
 func main() {
 	n := 100
 
